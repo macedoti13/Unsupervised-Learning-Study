@@ -1,0 +1,1 @@
+This is a selfmade study on unsupervised learning clustering algorithms. The point of this study is to increase my knowledge in the area and train my skills on ML algorithms and techniques. 
